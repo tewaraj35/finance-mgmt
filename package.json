@@ -1,0 +1,24 @@
+{
+  "name": "finance-mgmt",
+  "version": "1.0.0",
+  "description": "PayDay Manager — Personal Finance Tracker",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "migrate": "node scripts/migrate.mjs",
+    "migrate:force": "node scripts/migrate.mjs --force",
+    "migrate:dry": "node scripts/migrate.mjs --dry-run"
+  },
+  "dependencies": {
+    "firebase": "^12.13.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "dotenv": "^16.6.1",
+    "vite": "^5.4.8"
+  }
+}

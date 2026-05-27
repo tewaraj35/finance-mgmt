@@ -1,0 +1,440 @@
+{
+  "salary": [
+    {
+      "id": 1,
+      "month": 5,
+      "year": 2026,
+      "gross_salary": 0,
+      "net_salary": 7727.05,
+      "updated_at": "2026-05-25T10:37:48.826Z"
+    }
+  ],
+  "commitments": [
+    {
+      "id": 1,
+      "category": "Credit Card Loans",
+      "name": "HSBC",
+      "amount": 257.02,
+      "status": "PAID",
+      "description": "Credit Card Installment",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "category": "Credit Card Loans",
+      "name": "HSBC",
+      "amount": 99.91,
+      "status": "PAID",
+      "description": "Apple Watch Installment",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 2
+    },
+    {
+      "id": 3,
+      "category": "Credit Card Loans",
+      "name": "MAYBANK",
+      "amount": 180,
+      "status": "PAID",
+      "description": "Grolier",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 3
+    },
+    {
+      "id": 4,
+      "category": "Bank Loans",
+      "name": "Car",
+      "amount": 599,
+      "status": "PAID",
+      "description": "Ambank",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 1
+    },
+    {
+      "id": 5,
+      "category": "Bank Loans",
+      "name": "Kajang House",
+      "amount": 1151,
+      "status": "PAID",
+      "description": "RHB Bank",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 2
+    },
+    {
+      "id": 6,
+      "category": "Bank Loans",
+      "name": "PTPTN",
+      "amount": 251.83,
+      "status": "PAID",
+      "description": "-",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 3
+    },
+    {
+      "id": 7,
+      "category": "Bills",
+      "name": "Electricity",
+      "amount": 100,
+      "status": "PAID",
+      "description": "Paid for May bill — next bill due with June salary",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 1
+    },
+    {
+      "id": 8,
+      "category": "Bills",
+      "name": "Water",
+      "amount": 50,
+      "status": "PAID",
+      "description": "Paid for May bill — next bill due with June salary",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 2
+    },
+    {
+      "id": 9,
+      "category": "Bills",
+      "name": "Wifi",
+      "amount": 94.35,
+      "status": "PAID",
+      "description": "Paid for May bill — next bill due with June salary",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 3
+    },
+    {
+      "id": 10,
+      "category": "Bills",
+      "name": "UMobile",
+      "amount": 72.1,
+      "status": "PAID",
+      "description": "-",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 4
+    },
+    {
+      "id": 11,
+      "category": "Bills",
+      "name": "Netflix",
+      "amount": 29.9,
+      "status": "PAID",
+      "description": "-",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 5
+    },
+    {
+      "id": 12,
+      "category": "Bills",
+      "name": "Maintenance",
+      "amount": 217.25,
+      "status": "PAID",
+      "description": "Paid for May bill — next bill due with June salary",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 6
+    },
+    {
+      "id": 13,
+      "category": "Insurances",
+      "name": "MCIS Life Protection",
+      "amount": 650,
+      "status": "PAID",
+      "description": "",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 1
+    },
+    {
+      "id": 14,
+      "category": "Insurances",
+      "name": "MCIS Insurance",
+      "amount": 186.63,
+      "status": "PAID",
+      "description": "",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 2
+    },
+    {
+      "id": 15,
+      "category": "Shyaamrudh",
+      "name": "Diaper",
+      "amount": 100,
+      "status": "PAID",
+      "description": "",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 1
+    },
+    {
+      "id": 16,
+      "category": "Shyaamrudh",
+      "name": "Medication",
+      "amount": 100,
+      "status": "PAID",
+      "description": "",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 2
+    },
+    {
+      "id": 17,
+      "category": "Shyaamrudh",
+      "name": "Milk",
+      "amount": 494.7,
+      "status": "PAID",
+      "description": "",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 3
+    },
+    {
+      "id": 18,
+      "category": "Additional",
+      "name": "Fuel",
+      "amount": 200,
+      "status": "PAID",
+      "description": "",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 1
+    },
+    {
+      "id": 19,
+      "category": "Additional",
+      "name": "Toll & Parking",
+      "amount": 50,
+      "status": "PAID",
+      "description": "",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 2
+    },
+    {
+      "id": 20,
+      "category": "Additional",
+      "name": "Eat Out",
+      "amount": 250,
+      "status": "PAID",
+      "description": "",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 3
+    },
+    {
+      "id": 21,
+      "category": "Additional",
+      "name": "Emergency Fund",
+      "amount": 200,
+      "status": "PAID",
+      "description": "",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 4
+    },
+    {
+      "id": 22,
+      "category": "Additional",
+      "name": "Sinking Fund",
+      "amount": 150,
+      "status": "PAID",
+      "description": "",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 5
+    },
+    {
+      "id": 23,
+      "category": "Additional",
+      "name": "Medication",
+      "amount": 200,
+      "status": "PAID",
+      "description": "",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 6
+    },
+    {
+      "id": 24,
+      "category": "Additional",
+      "name": "Grocery",
+      "amount": 600,
+      "status": "PAID",
+      "description": "",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 7
+    },
+    {
+      "id": 25,
+      "category": "Additional",
+      "name": "Aussie",
+      "amount": 200,
+      "status": "PAID",
+      "description": "",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 8
+    },
+    {
+      "id": 26,
+      "category": "Additional",
+      "name": "Shyaamrudh Saving",
+      "amount": 100,
+      "status": "PAID",
+      "description": "",
+      "month": 5,
+      "year": 2026,
+      "sort_order": 9
+    }
+  ],
+  "_nextId": {
+    "salary": 2,
+    "commitments": 27,
+    "pockets": 13,
+    "pocket_billings": 2
+  },
+  "pockets": [
+    {
+      "id": 1,
+      "name": "Eat Out",
+      "icon": "🍔",
+      "color": "#f59e0b",
+      "credit_amount": 250,
+      "description": "",
+      "created_at": "2026-05-27T04:07:28.963Z",
+      "updated_at": "2026-05-27T04:07:28.963Z"
+    },
+    {
+      "id": 2,
+      "name": "Gas",
+      "icon": "🚗",
+      "color": "#3b82f6",
+      "credit_amount": 200,
+      "description": "",
+      "created_at": "2026-05-27T04:08:34.182Z",
+      "updated_at": "2026-05-27T04:16:26.044Z"
+    },
+    {
+      "id": 3,
+      "name": "Toll & Parking",
+      "icon": "💰",
+      "color": "#3b82f6",
+      "credit_amount": 50,
+      "description": "",
+      "created_at": "2026-05-27T04:08:54.994Z",
+      "updated_at": "2026-05-27T04:08:54.994Z"
+    },
+    {
+      "id": 4,
+      "name": "Emergency Fund",
+      "icon": "💰",
+      "color": "#ef4444",
+      "credit_amount": 200,
+      "description": "",
+      "created_at": "2026-05-27T04:10:02.479Z",
+      "updated_at": "2026-05-27T04:10:05.560Z"
+    },
+    {
+      "id": 5,
+      "name": "Sinking Fund",
+      "icon": "💰",
+      "color": "#ef4444",
+      "credit_amount": 150,
+      "description": "",
+      "created_at": "2026-05-27T04:10:24.165Z",
+      "updated_at": "2026-05-27T04:10:24.165Z"
+    },
+    {
+      "id": 6,
+      "name": "Medication",
+      "icon": "💰",
+      "color": "#06b6d4",
+      "credit_amount": 200,
+      "description": "",
+      "created_at": "2026-05-27T04:10:40.386Z",
+      "updated_at": "2026-05-27T04:10:40.386Z"
+    },
+    {
+      "id": 7,
+      "name": "Grocery",
+      "icon": "🛒",
+      "color": "#10b981",
+      "credit_amount": 600,
+      "description": "",
+      "created_at": "2026-05-27T04:11:04.504Z",
+      "updated_at": "2026-05-27T04:11:04.504Z"
+    },
+    {
+      "id": 8,
+      "name": "Aussie",
+      "icon": "✈️",
+      "color": "#84cc16",
+      "credit_amount": 200,
+      "description": "",
+      "created_at": "2026-05-27T04:11:21.159Z",
+      "updated_at": "2026-05-27T04:11:21.159Z"
+    },
+    {
+      "id": 9,
+      "name": "Shyaamrudh's Saving",
+      "icon": "👶",
+      "color": "#3b82f6",
+      "credit_amount": 100,
+      "description": "",
+      "created_at": "2026-05-27T04:11:42.255Z",
+      "updated_at": "2026-05-27T04:11:42.255Z"
+    },
+    {
+      "id": 10,
+      "name": "Shyaamrudh's Milk",
+      "icon": "💰",
+      "color": "#3b82f6",
+      "credit_amount": 494.7,
+      "description": "",
+      "created_at": "2026-05-27T04:12:16.954Z",
+      "updated_at": "2026-05-27T04:12:16.954Z"
+    },
+    {
+      "id": 11,
+      "name": "Shyaamrudh's Diaper",
+      "icon": "💰",
+      "color": "#3b82f6",
+      "credit_amount": 100,
+      "description": "",
+      "created_at": "2026-05-27T04:12:26.425Z",
+      "updated_at": "2026-05-27T04:12:26.425Z"
+    },
+    {
+      "id": 12,
+      "name": "Shyaamrudh's Medication",
+      "icon": "💊",
+      "color": "#3b82f6",
+      "credit_amount": 100,
+      "description": "",
+      "created_at": "2026-05-27T04:12:36.758Z",
+      "updated_at": "2026-05-27T04:16:48.937Z"
+    }
+  ],
+  "pocket_billings": [
+    {
+      "id": 1,
+      "pocket_id": 1,
+      "name": "McDonald's",
+      "amount": 33.1,
+      "date": "2026-05-27",
+      "description": "",
+      "created_at": "2026-05-27T04:09:16.763Z",
+      "updated_at": "2026-05-27T04:09:16.763Z"
+    }
+  ]
+}

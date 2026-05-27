@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.local
+
+# Environment variables — never commit these (contains Firebase keys)
+.env
+.env.local
+.env.production
+
+# Local Express data file (no longer used in production)
+# data/finance.json
